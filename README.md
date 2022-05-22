@@ -1,8 +1,9 @@
 # Hi there! I'm Angela!
 
-👋 Hi, I’m Angela, a 20-yr old unshakable optimist, using the power of technology for social good. 
+👋 Hi, I’m Angela, a 20-yr old unshakable optimist, Forbes 30 Under 30 list maker - using the power of technology for social good. 
 
 # 🌱 I’m currently working on ...
+- Working as a research intern @Google and studying AI @Cornell Tech
 - Studying electrical engineering, computer science and economics at Lafayette College.
 - Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ (we just got supported by National Geographic!)
 - Developing ML Models to help engineering students learn spatial visualization skills more efficiently, as a research assistant @Lafayette College! 
