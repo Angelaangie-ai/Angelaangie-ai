@@ -19,7 +19,7 @@
 - Climate Change & Climate justice (Delegate @COP, @Youth4Climate @OneYoungWorld)
 - Public Speaking 
 - Women in STEM
-- Social Enterprises
+- Social Enterprises (@IBM Call For Code)
 - Consulting & Creating impactful businesses (@JUVConsulting, @Lafayette Consulting Group)
 
 # 📫 I love meeting people! Reach out! ...
