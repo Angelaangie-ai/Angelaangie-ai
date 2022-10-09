@@ -1,20 +1,22 @@
 # Hi there! I'm Angela!
 
-👋 Hi, I’m Angela, a 20-yr old unshakable optimist, Forbes 30 Under 30 list maker - using the power of technology for social good. 
+👋 Hi, I’m Angela, a 21-yr old unshakable optimist, Forbes 30 Under 30 list maker - using the power of technology for social good. 
 
 # 🌱 I’m currently working on ...
-- Working as a Student Research Intern @Google and studying AI @Cornell Tech
-- Studying electrical engineering, computer science and economics at Lafayette College.
-- Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ (we just got supported by National Geographic!)
-- Developing ML Models to help engineering students learn spatial visualization skills more efficiently, as a research assistant @Lafayette College! 
+- Studying AI @Cornell Tech and working on an NLP Project @ASAPP.
+- Studying electrical engineering and computer science @Lafayette College.
+- Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ (we are supported by National Geographic)
+- Developing ML Models to recognize pathologies in buildings as a research assistant @Lafayette College! 
 
 # 👀 I've worked on ...
+- Was a Student Research Intern @Google
+- Developing ML Models to help engineering students learn spatial visualization skills more efficiently, as a research assistant @Lafayette College! 
 - Represented North Macedonia @International Young Physicists Tournament. Achieved Honorable Mention @Mediterranean Math Olympiad @Iranian Geometry Olympiad.
 - Developed a food-sharing application @Empower The Youth!
 - Created an environment-friendly sorbent for oil spills, achieved medals @Genius Olympiad, @EuroInvent, @UNIPO, @New York Academy of Science & @iCAN
  
 # 💞️ I’m also passionate about ...
-- Climate Change & Climate justice (Delegate @COP, @Youth4Climate)
+- Climate Change & Climate justice (Delegate @COP, @Youth4Climate @OneYoungWorld)
 - Public Speaking 
 - Women in STEM
 - Social Enterprises
