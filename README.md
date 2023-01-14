@@ -6,7 +6,7 @@
 - Studying AI @Cornell Tech and working on an NLP Project @ASAPP.
 - Studying electrical engineering and computer science @Lafayette College.
 - Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ (we are supported by National Geographic)
-- Developing ML Models to recognize pathologies in buildings as a research assistant @Lafayette College! 
+- Developing ML Models for a brain-computer interface research  @Lafayette College! 
 
 # 👀 I've worked on ...
 - Was a Student Research Intern @Google
