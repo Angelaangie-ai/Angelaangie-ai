@@ -3,13 +3,14 @@
 👋 Hi, I’m Angela, a 21-yr old unshakable optimist, Forbes 30 Under 30 list maker - using the power of technology for social good. 
 
 # 🌱 I’m currently working on ...
-- Studying AI @Cornell Tech and working on an NLP Project @ASAPP.
+- Neo Scholar Finalist @Neo
 - Studying electrical engineering and computer science @Lafayette College.
-- Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ (we are supported by National Geographic)
+- Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ (we are developing the new version along s4 of Nights & Weekends)
+- Taking part in the first-ever We Are Family Foundation Delegation at the United Nations General Assembly.
 - Developing ML Models for a brain-computer interface research  @Lafayette College! 
 
 # 👀 I've worked on ...
-- Was a Student Research Intern @Google
+- Was a Student Research Intern & STEP Intern @Google
 - Developing ML Models to help engineering students learn spatial visualization skills more efficiently, as a research assistant @Lafayette College! 
 - Represented North Macedonia @International Young Physicists Tournament. Achieved Honorable Mention @Mediterranean Math Olympiad @Iranian Geometry Olympiad.
 - Developed a food-sharing application @Empower The Youth!
