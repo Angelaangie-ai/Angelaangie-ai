@@ -15,6 +15,7 @@
 - Represented North Macedonia @International Young Physicists Tournament. Achieved Honorable Mention @Mediterranean Math Olympiad @Iranian Geometry Olympiad.
 - Developed a food-sharing application @Empower The Youth!
 - Created an environment-friendly sorbent for oil spills, achieved medals @Genius Olympiad, @EuroInvent, @UNIPO, @New York Academy of Science & @iCAN
+- Developed a booklet on how to prepare for International Youth Physicists Tournament: https://drive.google.com/file/d/10x08VFlF2crqZJbDJ0hHiE91GOl4jHhr/view?usp=sharing
  
 # 💞️ I’m also passionate about ...
 - Climate Change & Climate justice (Delegate @COP, @Youth4Climate @OneYoungWorld)
