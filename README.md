@@ -5,7 +5,7 @@
 # 🌱 I’m currently working on ...
 - Neo Scholar Finalist @Neo
 - Studying electrical engineering and computer science @Lafayette College.
-- Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ (we are developing the new version along s4 of Nights & Weekends)
+- Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ 
 - Taking part in the first-ever We Are Family Foundation Delegation at the United Nations General Assembly.
 - Developing ML Models for a brain-computer interface research  @Lafayette College! 
 
