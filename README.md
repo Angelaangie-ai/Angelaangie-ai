@@ -4,6 +4,7 @@
 
 # 🌱 I’m currently working on ...
 - Neo Scholar Finalist @Neo
+- .406 Student Fellow @.406 Ventures
 - Studying electrical engineering and computer science @Lafayette College.
 - Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ 
 - Taking part in the first-ever We Are Family Foundation Delegation at the United Nations General Assembly.
@@ -22,7 +23,7 @@
 - Public Speaking 
 - Women in STEM
 - Social Enterprises (@IBM Call For Code)
-- Consulting & Creating impactful businesses (@JUVConsulting, @Lafayette Consulting Group)
+- Consulting & Creating impactful businesses (worked at @JUVConsulting)
 
 # 📫 I love meeting people! Reach out! ...
 - Email: busheska@lafayette.edu 
