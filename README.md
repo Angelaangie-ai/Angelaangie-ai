@@ -3,7 +3,7 @@
 👋 Hi, I’m Angela, a 21-yr old unshakable optimist, Forbes 30 Under 30 list maker - using the power of technology for social good. 
 
 # 🌱 I’m currently working on ...
-- Neo Scholar Finalist @Neo
+- Neo Scholar @Neo
 - .406 Student Fellow @.406 Ventures
 - Studying electrical engineering and computer science @Lafayette College.
 - Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ 
