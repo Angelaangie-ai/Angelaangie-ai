@@ -3,13 +3,13 @@
 👋 Hi, I’m Angela, a 22-yr old unshakable optimist, Glamour College Woman Of The Year, Forbes 30 Under 30 list maker - using the power of technology for social good. 
 
 # 🌱 I’m currently working on ...
-- Applied Gemini @Google Gemini
 - Neo Scholar @Neo
 - .406 Student Fellow @.406 Ventures
 - Studying electrical engineering and computer science, with a minor in math @Lafayette College.
 - Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ 
 
 # 👀 I've worked on ...
+- Applied Gemini
 - Was a Research Intern @DeepMind
 - Sustainable Agriculture @ Microsoft Research Lab
 - Developing ML Models to help engineering students learn spatial visualization skills more efficiently, as a research assistant @Lafayette College! 
