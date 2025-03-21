@@ -3,6 +3,7 @@
 👋 Hi, I’m Angela, a 22-yr old unshakable optimist, Glamour College Woman Of The Year, Forbes 30 Under 30 list maker - using the power of technology for social good. 
 
 # 🌱 I’m currently working on ...
+- Voice AI @Amperos Health
 - Neo Scholar @Neo
 - .406 Student Fellow @.406 Ventures
 - Studying electrical engineering and computer science, with a minor in math @Lafayette College.
