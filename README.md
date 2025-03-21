@@ -6,7 +6,7 @@
 - Voice AI @Amperos Health
 - Neo Scholar @Neo
 - .406 Student Fellow @.406 Ventures
-- Studying electrical engineering and computer science, with a minor in math @Lafayette College.
+- Studying electrical engineering and computer science, with a minor in math @Lafayette College. (last semester!)
 - Creating and developing technical solutions to help people reduce their carbon footprint @EnRoute! Check out our website: https://www.enroute-app.com/ 
 
 # 👀 I've worked on ...
