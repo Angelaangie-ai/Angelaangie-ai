@@ -1,6 +1,6 @@
 # Hi there! I'm Angela!
 
-👋 Hi, I’m Angela, a 22-yr old unshakable optimist, Glamour College Woman Of The Year, Forbes 30 Under 30 list maker - using the power of technology for social good. 
+👋 Hi, I’m Angela, a 23-yr old unshakable optimist, Glamour College Woman Of The Year, Forbes 30 Under 30 list maker - using the power of technology for social good. 
 
 # 🌱 I’m currently working on ...
 - Voice AI @Amperos Health
